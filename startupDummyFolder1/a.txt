@@ -1,1 +1,1 @@
-dummy content for a.txt
+This project is a GitHub integration bot that allows users to interact with repositories from Slack.They can ask for documentation, file content, or component behavior.
